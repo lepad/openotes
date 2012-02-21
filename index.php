@@ -2,7 +2,7 @@
 <html>
     <head>
             <meta charset="utf-8" />
-            <title>Auto-Remind</title>
+            <title>plop-Remind</title>
     </head>
     <body>
     </body>
